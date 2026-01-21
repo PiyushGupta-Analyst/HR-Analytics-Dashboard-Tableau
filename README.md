@@ -23,7 +23,7 @@ To analyze HR data and identify patterns related to employee attrition, demograp
 👉 https://public.tableau.com/app/profile/piyush.gupta7807/viz/HRDataProject_17544751973750/HRAnalyticsDashboard
 
 ## 📁 Dataset
-The dataset used in this project contains anonymized HR employee data and is intended for learning and portfolio purposes only.
+The dataset used for this project is available in the repository as `HR Data.xlsx`.
 
 ## 📌 Key Learnings
 - Hands-on experience with Tableau dashboard design
